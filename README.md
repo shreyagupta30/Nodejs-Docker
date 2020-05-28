@@ -1,2 +1,2 @@
 # Nodejs-Docker
-This respositry demonstrate how to dockerize nodejs app
+This respository demonstrate how to dockerize nodejs app
